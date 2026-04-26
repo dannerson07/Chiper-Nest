@@ -1,7 +1,0 @@
-# Cipher Nest — dependencies
-# Install with: pip install -r requirements.txt
-
-cryptography>=41.0.0     # Fernet encryption + PBKDF2
-bcrypt>=4.0.0            # password hashing
-pymongo>=4.6.0           # MongoDB driver
-colorama>=0.4.6          # terminal colours (CLI)
