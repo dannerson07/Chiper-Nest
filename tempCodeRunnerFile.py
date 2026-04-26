@@ -1,0 +1,1 @@
+    def _handle_delete(self):
