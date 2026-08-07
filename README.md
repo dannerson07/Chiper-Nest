@@ -162,8 +162,6 @@ ciphernest
 
 **Jerush Dannerson V C**
 CSE – Cyber Security | Sri Eshwar College of Engineering
-Reg No: 722825149024 | Batch: 2025–2029
+|Batch: 2025–2029
 
 ---
-
-*Built as part of the Python Programming course project.*
