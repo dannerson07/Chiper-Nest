@@ -162,6 +162,6 @@ ciphernest
 
 **Jerush Dannerson V C**
 CSE – Cyber Security | Sri Eshwar College of Engineering
-|Batch: 2025–2029
+| Batch: 2025–2029
 
 ---
